@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 # ⚡ Technologies
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amarparab28&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=amarparab28&theme=nightowl&border_radius=4.3&mode=weekly" alt="AmarParab"/>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarparab&count_private=true&show_icons=true&theme=nightowl" /></td>
+  </tr>
+</table>
